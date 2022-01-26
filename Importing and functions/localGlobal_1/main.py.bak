@@ -1,0 +1,14 @@
+def f():
+    # local variable
+    s = "I love Python"
+    print(s)
+f()
+"""""
+def f():
+
+    # local variable
+    s = "I love Geeksforgeeks"
+    print("Inside Function:", s)
+f()
+print(s)
+"""
